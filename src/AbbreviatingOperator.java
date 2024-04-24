@@ -8,5 +8,8 @@ public class AbbreviatingOperator {
         num *= 2;
 
         System.out.println(num);
+
+        System.out.print("0");
+        System.out.print("2");
     }
 }
